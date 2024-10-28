@@ -26,6 +26,6 @@
 
 # Where am I deployed?
 
-<enter your URL here>
+https://deploy-this-repo-sdelgado6625-git-main-sdelgado6625s-projects.vercel.app/
 
 
